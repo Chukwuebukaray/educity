@@ -6,7 +6,7 @@ Educity is a simple and responsive school website built to showcase the programs
 **Installation:**
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Chukwuebukaray/educity](https://github.com/Chukwuebukaray/educity)
+    git clone [https://github.com/Chukwuebukaray/educity]
 
 2. Install dependencies:
     Bash
