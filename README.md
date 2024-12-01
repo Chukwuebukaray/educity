@@ -1,7 +1,7 @@
 # Educity: A Modern College Website
 
 Description
-Educity is a modern college website built using ReactJS and Vite. It showcases the college's offerings, provides information about the institution, displays campus photos, and includes a contact form powered by EmailJS.
+Educity is a simple and responsive school website built to showcase the programs offered, provide information about the institution, and offer a way for users to get in touch through a contact form. The site is built using React, HTML, and CSS, and integrates EmailJS to send form submissions to the school's email.
 
 Installation
 1. Clone the repository:
