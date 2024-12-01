@@ -1,6 +1,6 @@
 # Educity: A Modern College Website
 
-Description
+**Description**
 Educity is a simple and responsive school website built to showcase the programs offered, provide information about the institution, and offer a way for users to get in touch through a contact form. The site is built using React, HTML, and CSS, and integrates EmailJS to send form submissions to the school's email.
 
 Installation
